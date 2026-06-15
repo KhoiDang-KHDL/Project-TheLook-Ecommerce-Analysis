@@ -111,8 +111,6 @@ Defined 3 core analytical questions:
 - Display Ads underperforming
 
 #### Engagement & Revenue Contribution
-![ChannelAnalysis](Images/Channel_Analysis_1.png)
-![ChannelAnalysis](Images/Channel_Analysis_2.png)
 - Email: 45% of total orders
 - Adwords: 30%
 - Email & Adwords drive 75% of active traffic
