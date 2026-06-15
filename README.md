@@ -52,15 +52,16 @@ This project provides data-driven insights to support those strategic decisions.
 ---
 
 ## 🛠 Tools & Technologies
+**Languages & Libraries:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-- Python
-- Pandas
-- Seaborn
-- Scikit-learn
-- Statistical Testing (ANOVA)
-- RFM Segmentation
-- Power BI
-- Google BigQuery
+**Data Analytics & DB:** ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=google%20bigquery&logoColor=white)
+
+**Techniques & Methodologies:** ![ANOVA](https://img.shields.io/badge/Statistical_Testing-ANOVA-8A2BE2?style=for-the-badge)
+![RFM](https://img.shields.io/badge/Segmentation-RFM_Analysis-FF69B4?style=for-the-badge)
 
 ---
 
