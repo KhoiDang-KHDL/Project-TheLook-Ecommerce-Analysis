@@ -2,11 +2,6 @@
 ### Funnel Optimization & Marketing Performance Analysis  
 
 > 🚀 Data Analyst Portfolio Project  
-> Course: DS111_Phân tích dữ liệu  
-> 👥 Team Members
-> - Nguyễn Đăng Khôi – Leader, Data Analysis, Dashboard Development
-> - Nguyễn Trọng Khôi – Data Processing, Visualization
-> - Nguyễn Trần Tuấn Khôi – Data Processing, Visualization
 ---
 
 ##  Project Summary
@@ -96,6 +91,8 @@ Defined 3 core analytical questions:
 
 ### 🚀 Business Growth
 
+![Business Growth](Images/Business_Performance_1.png)
+![Business Growth](Images/Business_Performance_2.png)
 - Strong growth trend from 2019 to 2025
 - 2025 performance surpassed previous years
 - Growth pattern overcame traditional seasonality
@@ -104,12 +101,17 @@ Defined 3 core analytical questions:
 
 ### 📢 Marketing Channel Performance
 
+![Marketing Channel](Images/Marketing%20Channel%20Performance_1.png)
+![Marketing Channel](Images/Marketing%20Channel%20Performance_2.png)
+
 #### User Acquisition
 - 70% registrations from Search Traffic
 - Organic: 15%
 - Display Ads underperforming
 
 #### Engagement & Revenue Contribution
+![ChannelAnalysis](Images/Channel_Analysis_1.png)
+![ChannelAnalysis](Images/Channel_Analysis_2.png)
 - Email: 45% of total orders
 - Adwords: 30%
 - Email & Adwords drive 75% of active traffic
@@ -124,7 +126,7 @@ Search brings users, but Email & Adwords generate revenue.
 Customer Journey:
 
 Home → Department → Product → Cart → Purchase → Cancel
-
+![Funnel Analysis](Images/Funnel%20Analysis.png)
 Key Observations:
 
 - Users frequently revisit Product pages
@@ -139,7 +141,7 @@ Product comparison stage causes major drop-off.
 ---
 
 ### 🌍 Geographic Analysis
-
+![Geographic Analysis](Images/Geographic%20Analysis.png)
 - 80% of orders come from:
   - China
   - USA
@@ -152,7 +154,7 @@ High market concentration dependency.
 ---
 
 ### 👥 Age Group Analysis
-
+![Age Group Analysis](Images/Age%20Group%20Analysis.png)
 - Age 32–60 generates highest total revenue
 - ANOVA p-value = 0.4 → No significant AOV difference
 - AOV ≈ $50 across all groups
@@ -163,7 +165,7 @@ Revenue dominance comes from customer volume, not higher spending per order.
 ---
 
 ### 💎 RFM Segmentation
-
+![RFM Segmentation](Images/RFM%20Segmentation.png)
 Customer Categories:
 
 - Champions
@@ -185,7 +187,7 @@ Retention imbalance & declining spending among loyal users.
 ---
 
 # 📈 Dashboard
-
+![Dashboard](Images/Dashboard_TheLook.png)
 An executive Power BI dashboard was developed to visualize:
 
 - Sales trends
@@ -209,9 +211,7 @@ An executive Power BI dashboard was developed to visualize:
 
 ---
 
-# 👤 My Contribution (Nguyễn Đăng Khôi)
-
-As Team Leader & Main Analyst, I:
+# 👤 What I did in this project:
 
 - Defined business problems
 - Designed analytical framework
