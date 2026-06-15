@@ -4,7 +4,7 @@
 > 🚀 Data Analyst Portfolio Project  
 > Course: DS111_Phân tích dữ liệu  
 > 👥 Team Members
-> - Nguyễn Đăng Khôi – Leader, Business Analysis, Dashboard Development
+> - Nguyễn Đăng Khôi – Leader, Data Analysis, Dashboard Development
 > - Nguyễn Trọng Khôi – Data Processing, Visualization
 > - Nguyễn Trần Tuấn Khôi – Data Processing, Visualization
 ---
