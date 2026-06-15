@@ -40,7 +40,7 @@ This project provides data-driven insights to support those strategic decisions.
 
 🔗 **Dataset Link:**   https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce?hl=en-GB&pli=1&project=gen-lang-client-0216149681
 ### Main Tables Used
-
+![Dataset](Images/DatasetOverview.png)
 - `Users`
 - `Orders`
 - `Order Items`
